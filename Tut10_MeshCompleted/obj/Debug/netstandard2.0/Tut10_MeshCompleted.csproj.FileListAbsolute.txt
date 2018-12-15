@@ -1,0 +1,10 @@
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.deps.json
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.dll
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.pdb
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.csprojAssemblyReference.cache
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.csproj.CoreCompileInputs.cache
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.AssemblyInfoInputs.cache
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.AssemblyInfo.cs
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.dll
+C:\Users\azmeh\Documents\ComputergrafikMIB-master\ComputergrafikMIB-master\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.pdb
