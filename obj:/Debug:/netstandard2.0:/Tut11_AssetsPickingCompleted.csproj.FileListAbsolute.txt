@@ -1,0 +1,11 @@
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\bin\Debug\netstandard2.0\Assets\Tank.fus
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\bin\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.deps.json
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\bin\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.dll
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\bin\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.pdb
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\obj\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.csprojAssemblyReference.cache
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\obj\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.csproj.CoreCompileInputs.cache
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\obj\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.AssemblyInfoInputs.cache
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\obj\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.AssemblyInfo.cs
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\obj\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.dll
+C:\Users\Fabia\Google Drive\Studium\MIB2\CG\Aufgabe_11\obj\Debug\netstandard2.0\Tut11_AssetsPickingCompleted.pdb
